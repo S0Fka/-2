@@ -43,7 +43,7 @@ Honkai: Star Rail — космическая фэнтези RPG в жанре ac
 ## Задание 2
 - С помощью скрипта на языке Python заполнить google-таблицу данными, описывающими выбранную игровую переменную в выбранной игре.
 
-![image](https://github.com/S0Fka/-2/assets/126691105/6c49682e-982b-4134-8144-a51a282bdffb)
+![image](https://github.com/S0Fka/-2/assets/126691105/47a92abb-4121-4b45-a41c-cd5fb431a22d)
 
 ![image](https://github.com/S0Fka/-2/assets/126691105/3b5d9db3-5202-4f29-9809-33b94d18dd34)
 
